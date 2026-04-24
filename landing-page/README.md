@@ -2,6 +2,8 @@
 
 a fully hand-coded landing page built as part of **[the odin project](https://www.theodinproject.com/lessons/foundations-landing-page)** foundations curriculum. the goal was to recreate a provided design from scratch using only html and css, with a focus on flexbox layout.
 
+<img width="1378" height="920" alt="landingpage" src="https://github.com/user-attachments/assets/07232468-b42b-42d6-86b1-e38239ceceb4" />
+
 ---
 
 ## 🧠 concepts practiced
